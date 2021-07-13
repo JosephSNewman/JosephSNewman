@@ -3,9 +3,13 @@
 - 👀 I’m interested in ...
 
 •	Cybersecurity technologies and becoming a cybersecurity analyst and ethical hacker
+
 •	Artificial Intelligence (AI) and Machine Learning (ML)
+
 •	Quantum Computing
+
 •	Software Engineering and Game Development 
+
 •	…And Human Computer Interaction (HCI)
 
 - 🌱 I’m currently learning ... 
