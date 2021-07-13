@@ -2,35 +2,35 @@
 
 👀 I’m interested in ...
 
-•	Cybersecurity technologies and becoming a cybersecurity analyst and ethical hacker
+    •	Cybersecurity technologies and becoming a cybersecurity analyst and ethical hacker
 
-•	Artificial Intelligence (AI) and Machine Learning (ML)
+    •	Artificial Intelligence (AI) and Machine Learning (ML)
 
-•	Quantum Computing
+    •	Quantum Computing
 
-•	Software Engineering and Game Development 
+    •	Software Engineering and Game Development 
 
-•	…And Human Computer Interaction (HCI)
+    •	…And Human Computer Interaction (HCI) like AR/VR
 
 🌱 I’m currently learning ... 
 
-•	CompTIA A+(Core 1 and 2), Security+, Network+, and Ethical Hacking
+    •	CompTIA A+(Core 1 and 2), Security+, Network+, and Ethical Hacking
 
 If I have the time I'm also learning...
 
-•   Quantum Computing Algorithms 
+    •   Quantum Computing Algorithms 
 
     ...I like to stay busy. :)
 
-- 💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on ...
 
-•   CompTIA and Cybersecurity Study Groups
+        •   CompTIA and Cybersecurity Study Groups
 
-•	Anything Artificial Intelligence or Machine Learning especially with a cybersecurity focus
+        •	Anything Artificial Intelligence or Machine Learning especially with a cybersecurity focus
 
-•	Games/AR/VR game or software projects
+        •	Games/AR/VR game or software projects
 
-- 📫 How to reach me ...
+📫 How to reach me ...
 
 Reach me either through my website www.josephsnewman.com or by email josephsnewman@gmail.com 
 
