@@ -1,28 +1,24 @@
-- 👋 Hi, I’m @JosephSNewman (He/Him/His) here is some things I am currently doing.
+👋 Hi, I’m @JosephSNewman (He/Him/His) here is some things I am currently doing.
 
-- 👀 I’m interested in ...
+👀 I’m interested in ...
 
 •	Cybersecurity technologies and becoming a cybersecurity analyst and ethical hacker
-
 •	Artificial Intelligence (AI) and Machine Learning (ML)
-
 •	Quantum Computing
-
 •	Software Engineering and Game Development 
-
 •	…And Human Computer Interaction (HCI)
 
-- 🌱 I’m currently learning ... 
+🌱 I’m currently learning ... 
 
 •	CompTIA A+(Core 1 and 2), Security+, Network+, and Ethical Hacking
 
 If I have the time I'm also learning...
-• Quantum Computing Algorithms 
+•   Quantum Computing Algorithms 
     ...I like to stay busy. :)
 
 - 💞️ I’m looking to collaborate on ...
 
-• CompTIA and Cybersecurity Study Groups
+•   CompTIA and Cybersecurity Study Groups
 •	Anything Artificial Intelligence or Machine Learning especially with a cybersecurity focus
 •	Games/AR/VR game or software projects
 
