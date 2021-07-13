@@ -2,25 +2,25 @@
 
 - 👀 I’m interested in ...
 
+•	Cybersecurity technologies and becoming a cybersecurity analyst and ethical hacker
 •	Artificial Intelligence (AI) and Machine Learning (ML)
-•	Cyber Security Technologies 
 •	Quantum Computing
 •	Software Engineering and Game Development 
 •	…And Human Computer Interaction (HCI)
 
 - 🌱 I’m currently learning ... 
 
-•	Augmented Reality (AR) and Virtual Reality (VR) Principles 
-•	Quantum Computing Algorithms 
-•	CompTIA Security+ and Network+
+•	CompTIA A+(Core 1 and 2), Security+, Network+, and Ethical Hacking
 
-...I like to stay busy. :)
+If I have the time I'm also learning...
+• Quantum Computing Algorithms 
+    ...I like to stay busy. :)
 
 - 💞️ I’m looking to collaborate on ...
 
-•	Games Projects
-•	AR or VR games or software projects
-•	Anything Artificial Intelligence or Machine Learning
+• CompTIA and Cybersecurity Study Groups
+•	Anything Artificial Intelligence or Machine Learning especially with a cybersecurity focus
+•	Games/AR/VR game or software projects
 
 - 📫 How to reach me ...
 
