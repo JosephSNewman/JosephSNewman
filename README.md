@@ -10,7 +10,9 @@
 
     •	Software Engineering and Game Development 
 
-    •	…And Human Computer Interaction (HCI) like AR/VR
+    •	Human Computer Interaction (HCI)
+    
+    •	Augmented Reality (AR) and Virtual Reality (VR) and other meta-verse topics and technologies
 
 🌱 I’m currently learning ... 
 
